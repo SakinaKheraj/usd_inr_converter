@@ -30,7 +30,7 @@ I built it in **two styles**:
 ## 🔧 Run it yourself
 
 ```bash
-git clone https://github.com/<SakinaKheraj>/usd_inr_converter.git
+git clone https://github.com/SakinaKheraj/usd_inr_converter.git
 cd usd_inr_converter
 flutter pub get
 flutter run
