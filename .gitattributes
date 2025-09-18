@@ -1,1 +1,7 @@
+# Force Dart for all Dart files
 *.dart linguist-language=Dart
+
+# Ignore folders that contain native C++/Java/Obj-C code
+/android/* linguist-vendored
+/ios/* linguist-vendored
+/build/* linguist-vendored
